@@ -1,18 +1,15 @@
 # Wolf Stievano
 
-Full-stack developer from Brazil. Most of my work is on web apps, front and back, and lately I've been getting deeper into data engineering.
+Full-stack developer from Brazil. I build web apps and the data systems behind them — mostly my own projects.
 
-## What I'm building
+Mostly on [LinkedIn](https://linkedin.com/in/wolf-sachso-stievano) and [X](https://x.com/yourhandle). Or just email me: wolf.stievano@gmail.com
 
-**Eulenhof** — a data pipeline using dlt, DuckDB, dbt and Dagster, all running on Docker Compose. _(add repo link)_
+## Things I'm building
 
-## Stack
+**[Eulenhof](https://github.com/wolf-stievano/eulenhof)** — a full-stack site, built front to back. _[one line on what it does]_
 
-**Frontend:** TypeScript, JavaScript, React, Next.js, Vue, HTML/CSS
-**Backend:** Node.js, Python, SQL/MySQL, Docker
-**Data:** dlt, DuckDB, dbt, Dagster
+**[data pipeline](#)** — up next. dlt pulls the data, DuckDB stores it, dbt transforms it, Dagster runs the schedule, Docker Compose holds it all together.
 
-## Contact
+## Usually working with
 
-- wolf.stievano@gmail.com
-- [linkedin.com/in/wolf-sachso-stievano](https://linkedin.com/in/wolf-sachso-stievano)
+TypeScript, React, Next.js, Vue, Node.js, Python, SQL/MySQL, Docker, and the dbt/DuckDB/Dagster data stack.
